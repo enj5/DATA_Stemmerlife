@@ -23,3 +23,6 @@
 Question : Dans la vue "explicite_entite_valeur" Je vois une jointure avec "full_entite_valeur" qui est une vue. C'est bizarre?? Bon je pense que c'est comme une fonction qui appelle une autre fonction  
 
 RESTE A FAIRE : Rajouter les BDD des 4 tables parmi les jointure de la vue "explicite_produit_valeur" !!!!!! **DONE**  
+
+**TACHE 3**
+> Je me suis arrêté à "explicite_entite_attribut"
