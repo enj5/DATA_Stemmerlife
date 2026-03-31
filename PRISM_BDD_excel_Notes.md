@@ -26,3 +26,9 @@ RESTE A FAIRE : Rajouter les BDD des 4 tables parmi les jointure de la vue "expl
 
 **TACHE 3**
 > Je me suis arrêté à "explicite_entite_attribut"
+(suite)
+> Problème avec la jointure "full_entite_valeur". Est ce que je l'ajoute parmi les vues? **JE ME SUIS SERVI D'ELLE!!  
+> **Dans la table "option_libelle", o dirait qu'il manque les id de 1 à 25**     **Donc la vue "explicite option NON TERMINEE**
+> **Même pb pour "explicite_produit_valeur". J'ai mis des "NOT_FOUND" pour les données manquantes
+> Pour l'instant dans le tableau excel de la vue "explicite_organisation_division", je me suis arrêté  la colonne "categorie_code" et "cl_libelle"
+> **TOUT RECONTROLER, IL Y A BEAUCOUP DE SOUCIS AVEC LES "N/A"  !!!!!**
