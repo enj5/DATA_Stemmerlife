@@ -26,9 +26,18 @@ RESTE A FAIRE : Rajouter les BDD des 4 tables parmi les jointure de la vue "expl
 
 **TACHE 3**
 > Je me suis arrêté à "explicite_entite_attribut"
-(suite)
-> Problème avec la jointure "full_entite_valeur". Est ce que je l'ajoute parmi les vues? **JE ME SUIS SERVI D'ELLE!!  
-> **Dans la table "option_libelle", o dirait qu'il manque les id de 1 à 25**     **Donc la vue "explicite option NON TERMINEE**
-> **Même pb pour "explicite_produit_valeur". J'ai mis des "NOT_FOUND" pour les données manquantes
-> Pour l'instant dans le tableau excel de la vue "explicite_organisation_division", je me suis arrêté  la colonne "categorie_code" et "cl_libelle"
-> **TOUT RECONTROLER, IL Y A BEAUCOUP DE SOUCIS AVEC LES "N/A"  !!!!!**
+(suite)  
+> ~~Problème avec la jointure "full_entite_valeur". Est ce que je l'ajoute parmi les vues? **JE ME SUIS SERVI D'ELLE!!~~  
+> **Dans la table "option_libelle", o dirait qu'il manque les id de 1 à 25**     **Donc la vue "explicite option NON TERMINEE**  
+> ~~**Même pb pour "explicite_produit_valeur". J'ai mis des "NOT_FOUND" pour les données manquantes~~  
+> Pour l'instant dans le tableau excel de la vue "explicite_organisation_division", je me suis arrêté à la colonne "categorie_code" et "cl_libelle"  
+> **TOUT RECONTROLER, IL Y A BEAUCOUP DE SOUCIS AVEC LES "N/A"  !!!!!**  
+
+(suite 02/04)  
+> "explicite_valeur", je me suis arrêté sur les dernières colones à partir de "ea_envoi_erp". Car dans la la vue "explicitite_attribut" il y semble avoir des colones de trop et un renommage  
+> ATTENTION - PB avec les vues "explicite_produit_valeur" et "explicite_attribut"
+(Ou j'en suis...)
+> **"explicite_produit_valeur" table excel  
+> Je suis entrain de mettre les formules des envoi_cms, erp, vms... Puis de is_active  
+> Egalement, je dois mettre à jour les colonnes en bleues et jaune car la vue correspondante a changée dans postgre!!!**
+> _Puis je dois faire une revérification générale!!!!_
