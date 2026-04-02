@@ -39,5 +39,6 @@ RESTE A FAIRE : Rajouter les BDD des 4 tables parmi les jointure de la vue "expl
 (Ou j'en suis...)
 > **"explicite_produit_valeur" table excel  
 > Je suis entrain de mettre les formules des envoi_cms, erp, vms... Puis de is_active  
-> Egalement, je dois mettre à jour les colonnes en bleues et jaune car la vue correspondante a changée dans postgre!!!**
+> Egalement, je dois mettre à jour les colonnes en bleues et jaune car la vue correspondante a changée dans postgre!!!**  
+> **ATTENTION!!! JE GERE MAL LES "SI", c'est pour ça que ça ne marche pas! C'est parce que je ne sélectionne pas à chaque fois la bonne ligne dans les différents tableaux!!**  
 > _Puis je dois faire une revérification générale!!!!_
