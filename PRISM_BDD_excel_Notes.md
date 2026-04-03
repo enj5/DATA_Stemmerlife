@@ -42,3 +42,9 @@ RESTE A FAIRE : Rajouter les BDD des 4 tables parmi les jointure de la vue "expl
 > Egalement, je dois mettre à jour les colonnes en bleues et jaune car la vue correspondante a changée dans postgre!!!**  
 > **ATTENTION!!! JE GERE MAL LES "SI", c'est pour ça que ça ne marche pas! C'est parce que je ne sélectionne pas à chaque fois la bonne ligne dans les différents tableaux!!**  
 > _Puis je dois faire une revérification générale!!!!_
+
+(suite 03/04)
+> Changement dans la vue "explicite_produit_valeur", 3M de ligne. Excel accèpte 1M de ligne par feuille. Je vais à la place prendre 6713 lignes comme pour la vue "explicite_attribut"
+> **ATTENTION!! POSER LA QUESTION A BENOIT AVANT DE CONTINUER**
+> ~~Avec les 6714 lignes, je suis à "format_id" pour l'instant~~
+> **J'ai complété toutes les colonnes sur les 6713 lignes. Mais sur postgre on a 3M de lignes**  NON TERMINE
